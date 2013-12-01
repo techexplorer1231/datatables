@@ -1,0 +1,8 @@
+.dbOperator tbody tr td{
+    text-decoration-style: dotted;
+}
+
+table{
+    width: 100%;
+    background-color: greenyellow;
+}
